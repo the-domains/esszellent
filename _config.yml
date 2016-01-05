@@ -1,0 +1,28 @@
+name: esszellent
+favicon: null
+layout_spectrum: 0.44161627162247896
+typography_spectrum: 0.6843260473106056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5364476973190904
+  lightness: 0.5221652237232774
+  saturation: 0.5018143788911402
+  rhythmicContrast: 0.546802123542875
+purpose: []
