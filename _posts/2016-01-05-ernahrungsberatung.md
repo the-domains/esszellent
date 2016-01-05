@@ -1,27 +1,29 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T17:20:49.666Z'
-dateModified: '2016-01-05T17:20:11.111Z'
+datePublished: '2016-01-05T17:33:39.388Z'
+dateModified: '2016-01-05T17:26:00.906Z'
 title: Ernährungsberatung
 author: []
+sourcePath: _posts/2016-01-05-ernahrungsberatung.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-ernahrungsberatung.md
-published: true
 url: ernahrungsberatung/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1593a1f0-9d58-49bb-9ef6-b002e2af1e93.jpg)
+
 ****
 
 # **Ernährungsberatung**
@@ -116,6 +118,5 @@ dem Kunden (NICHT der Krankenkasse) verrechnet.
 / Projekte CHF 100-200 pro Stunde (je nach Vereinbarung)
 * Vorträge inkl.
 Vorbereitung CHF 450 (1-2 Stunden)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1593a1f0-9d58-49bb-9ef6-b002e2af1e93.jpg)
 
 [0]: https://www.mtk-ctm.ch/fileadmin/user_upload/tarife/Ernaehrungsberatung/Ernaehrungsberatung_ambulant/01_deutsch/ambulante_tarife_ernaehrungsberatung_Tarif_deu.pdf
